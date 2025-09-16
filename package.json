@@ -32,7 +32,7 @@
     "grunt-tslint": "^2.5.0",
     "grunt-typedoc": "^0.2.3",
     "jsdoc-oblivion": "0.0.4",
-    "karma": "^0.13.14",
+    "karma": "^6.4.4",
     "tslint": "^2.5.1",
     "typescript": "^1.6.2"
   }
